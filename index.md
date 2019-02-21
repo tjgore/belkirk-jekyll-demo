@@ -25,7 +25,7 @@ textline: |
 hero_button:
   text: Learn more2
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
