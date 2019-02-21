@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Belkirk College 678
 partners:
 - "/uploads/2018/02/17/building2.jpg"
 - "/uploads/2017/11/13/stem.png"
