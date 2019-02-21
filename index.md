@@ -16,13 +16,13 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Engineering and Health Sciences 356
 textline: |
   Belkirk College of Engineering
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Learn more2
   href: "/about"
 show_news: true
 show_staff: false
